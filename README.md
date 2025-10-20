@@ -8,7 +8,7 @@
 
 [Fritzing website & download](https://fritzing.org/)
 
-**Fritzing is a user-friendly tool for designing and documenting electronics projects, including those involving the Raspberry Pi.** It allows you to visually lay out circuits using a breadboard view, create schematic diagrams, and even design printed circuit boards (PCBs) for fabrication.
+**Fritzing is a user-friendly tool for designing and documenting electronics projects, including those involving the Raspberry Pi.** It allows you to visually lay out circuits using a breadboard view, create schematic diagrams, and even design printed circuit boards (PCBs) for fabrication. It is not free but a bargain at €8 (Euros)
 
 ![](./img/Pi_folder_CAPs/Screenshot%202025-10-18%20184657.png)
 
@@ -20,6 +20,8 @@
 * Design custom PCBs if you're building a more permanent or professional version of your project.
 
 It’s particularly useful for beginners and educators, as it simplifies the process of circuit design and makes electronics more accessible.
+
+**It is not free but a bargain at €8 (Euros)**
 
 ![](./img/Pi_folder_CAPs/Screenshot%202025-10-18%20184132.png)
 
@@ -37,9 +39,9 @@ Practical application of using Fritzing or other similar packages and platforms.
 | **Preconditions**    | Fritzing is installed<br>Raspberry Pi setup is ready<br>Learner knows basic Python syntax                                                                                                                                                                                                                                                                                            |
 | **Main Steps**       | 1. Open Fritzing<br>2. Create a new breadboard project<br>3. Add components such as LEDs, sensors, and resistors<br>4. Connect components in the workspace<br>5. Export or view the circuit diagram<br>6. Build the circuit on a breadboard connected to the Raspberry Pi<br>7. Write and run a Python script to control or read from the circuit<br>8. Test and refine the design or code |
 | **Postconditions**   | Working circuit diagram<br>Functional Raspberry Pi project controlled with Python                                                                                                                                                                                                                                                                                                      |
-| **Alternative Path** | If the circuit fails, use Fritzing to trace and correct wiring errors before retesting                                                                                                                                                                                                        <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%">
+| **Alternative Path** | If the circuit fails, use Fritzing to trace and correct wiring errors before retesting     |                                                                                                                                                                                   
 	<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=6a3c00ed-bc20-4156-809c-b37b00e5d189&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=true&interactivity=all" style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Introduction to Fritzing"></iframe>
-</div>                                                                                             |
+                                                                                            |
 
 
 Now we look at the practical steps of using diagrams to support our learning projects. This example focuses on a simple project to make an LED light blink.
